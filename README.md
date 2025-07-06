@@ -38,10 +38,5 @@ The findings can help the Paisabazaar team:
 
 ## GitHub Project Link
 
-[Click here to view the full project on GitHub](https://github.com/prattham30/Paisabazaar-Banking-Fraud)
+[Click here to view the full project on GitHub]https://github.com/prattham30/Paisabazaar-Banking-Fraud-Analysis
 
-## How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/prattham30/Paisabazaar-Banking-Fraud.git
